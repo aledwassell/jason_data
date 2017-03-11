@@ -47,7 +47,7 @@
       "species" : "Sheep",
       "favFoods" : ["tuna", "pizza", "celery"],
       "birthYear" : 1987,
-      "photo" : "https://raw.githubusercontent.com/aledwassell/jason_data/master/sheep_photos/img_5.jpg"
+      "photo" : "https://raw.githubusercontent.com/aledwassell/jason_data/master/sheep_photos/img_1.jpg"
     }
   ]
 }
