@@ -16,7 +16,7 @@
       "name" : "Meowsalot",
       "species" : "Sheep",
       "favFoods" : ["tuna", "pizza", "celery"],
-      "birthYear" : 2054,
+      "birthYear" : 2054
     }
   ]
 }
