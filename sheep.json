@@ -4,43 +4,50 @@
       "name" : "Micheal",
       "species" : "Sheep",
       "favFoods" : ["wet food", "dry food", "<strong>any</strong> food"],
-      "birthYear" : 1948
+      "birthYear" : 1948,
+      "photo" : "https://raw.githubusercontent.com/aledwassell/jason_data/master/sheep_photos/img_2.jpg"
     },
     {
       "name" : "David",
       "species" : "Goat",
       "favFoods" : ["sushi", "caviar"],
-      "birthYear" : 2009
+      "birthYear" : 2009,
+      "photo" : "https://raw.githubusercontent.com/aledwassell/jason_data/master/sheep_photos/goat.jpg"
     },
     {
       "name" : "Pat",
       "species" : "Sheep",
       "favFoods" : ["tuna", "pizza", "celery"],
-      "birthYear" : 2054
+      "birthYear" : 2054,
+      "photo" : "https://raw.githubusercontent.com/aledwassell/jason_data/master/sheep_photos/img_3.jpg"
     },
     {
       "name" : "Clive",
       "species" : "Sheep",
       "favFoods" : ["tuna", "pizza", "celery"],
-      "birthYear" : 1996
+      "birthYear" : 1996,
+      "photo" : "https://raw.githubusercontent.com/aledwassell/jason_data/master/sheep_photos/img_4.jpg"
     },
     {
       "name" : "Raul",
       "species" : "Sheep",
       "favFoods" : ["tuna", "pizza", "celery"],
-      "birthYear" : 2005
+      "birthYear" : 2005,
+      "photo" : "https://raw.githubusercontent.com/aledwassell/jason_data/master/sheep_photos/img_7.jpg"
     },
     {
       "name" : "Mark",
       "species" : "Sheep",
       "favFoods" : ["tuna", "pizza", "celery"],
-      "birthYear" : 2017
+      "birthYear" : 2017,
+      "photo" : "https://raw.githubusercontent.com/aledwassell/jason_data/master/sheep_photos/img_6.jpg"
     },
     {
       "name" : "Reginald",
       "species" : "Sheep",
       "favFoods" : ["tuna", "pizza", "celery"],
-      "birthYear" : 1987
+      "birthYear" : 1987,
+      "photo" : "https://raw.githubusercontent.com/aledwassell/jason_data/master/sheep_photos/img_5.jpg"
     }
   ]
 }
