@@ -56,21 +56,21 @@
       "species" : "Cow",
       "favFoods" : ["wet food", "dry food", "<strong>any</strong> food"],
       "birthYear" : 1948,
-      "photo" : "https://raw.githubusercontent.com/aledwassell/jason_data/master/animal_photos/img_5.jpg"
+      "photo" : "https://raw.githubusercontent.com/aledwassell/jason_data/master/sheep_photos/img_5.jpg"
     },
     {
       "name" : "Eric",
       "species" : "Horse",
       "favFoods" : ["sushi", "caviar"],
       "birthYear" : 2009,
-      "photo" : "https://raw.githubusercontent.com/aledwassell/jason_data/master/animal_photos/horse.jpg"
+      "photo" : "https://raw.githubusercontent.com/aledwassell/jason_data/master/sheep_photos/horse.jpg"
     },
     {
       "name" : "Daizy",
       "species" : "Cow",
       "favFoods" : ["tuna", "pizza", "celery"],
       "birthYear" : 2054,
-      "photo" : "https://raw.githubusercontent.com/aledwassell/jason_data/master/animal_photos/img_8.jpg"
+      "photo" : "https://raw.githubusercontent.com/aledwassell/jason_data/master/sheep_photos/img_8.jpg"
     }
   ]
 }
