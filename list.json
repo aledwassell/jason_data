@@ -1,0 +1,13 @@
+{
+  "title": "my title",
+  "links": [
+    {
+      "heading": "/wikipedia_viewer/",
+      "link": "http://aledwassell.com/wikipedia_viewer/"
+    },
+    {
+      "heading": "/giphy_api/",
+      "link": "http://aledwassell.com/gif-app/"
+    }
+  ]
+}
